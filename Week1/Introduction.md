@@ -8,4 +8,6 @@ Now, let us understand what is the Virtual Try On problem, often summarized as V
 
 If a model does both of the tasks then we can generate images of a person in various poses and garments just from a single image of the person and reference pose and style images.
 
-We will mostly be focusing on the texture transfer part initially, but can also implement pose transfer depending on the progress made.
+We will mostly be focusing on the texture transfer part initially, but can also implement pose transfer depending on the progress made.  
+
+Given a clothing image and a person image, an image-based virtual try-on aims to generate a customized image that appears natural and accurately reflects the characteristics of the clothing image
