@@ -19,6 +19,9 @@ The content of this tutorial series is as follows:
 - Face and Eye Detection
 
 
-  The relevant code with comments has been uploaded to the code folder of this week.
+  The relevant code with comments has been uploaded to the code folder of this week.  
 
+  You can also refer to the [opencv docmentation](https://docs.opencv.org/4.x/index.html) for reference purposes
+
+  
   This week will end with an assignment in which you are supposed to make a Document Scanner using OpenCV. The details of the assignment are in the assignment folder
