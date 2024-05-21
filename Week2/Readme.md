@@ -4,7 +4,9 @@ In this week, we will learn how to use the OpenCV library for using camera and v
 
 ## OpenCV Python Tutorial
 
-We will be following an OpenCV tutorial video series by "Tech with Tim". This is the link to the series: [OpenCV Python tutorial](https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=1).
+We will be following an OpenCV tutorial video series by "Tech with Tim". This is the link to the series: [OpenCV Python tutorial](https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=1).  
+
+You are expected to know numpy basics. If you are not familiar with Numpy library or want to explore more functionalities, an ipynb file has been uploaded in the code section to get you started
 
 The content of this tutorial series is as follows:
 - Introduction and Images
