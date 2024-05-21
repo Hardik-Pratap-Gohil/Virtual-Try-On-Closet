@@ -13,11 +13,11 @@ Python with OpenCV installed
 
 You will need to write a function to convert images to grayscale, apply Gaussian blur, and use edge detection to prepare the image for contour detection.
 
-### Step 3: Contour Detection
+### Step 2: Contour Detection
 
 Detect contours in the image and identify the one which most likely represents the document (Hint: Use area to find out the biggest contour which is a rectangle)
 
-### Step 4: Perspective Warp
+### Step 3: Perspective Warp
 
 Implement a function to perform a perspective warp that transforms the detected document to a top-down view.
 
