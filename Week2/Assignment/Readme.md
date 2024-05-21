@@ -4,8 +4,8 @@
 Your task is to create a real-time document scanner using Python and OpenCV. This scanner will process video input from a webcam to detect documents in the frame and then transform the perspective to obtain a top-down, scanned image view.
 
 ## Requirements
-A working webcam  
-Python with OpenCV installed
+-A working webcam  
+-Python with OpenCV installed
 
 ## Assignment Details
 
