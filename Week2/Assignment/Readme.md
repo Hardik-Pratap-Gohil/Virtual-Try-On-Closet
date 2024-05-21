@@ -34,4 +34,4 @@ Submit your completed Python script along with screenshot of a document(or any r
 You can face a number of challenges while doing the assignment:
 1) You need to make a bounding box for the document detected. So for that you need to give the points to the respective function in a certain order and the points you detected from Step 2 will not always be in that order. So you need to reorder the points before trying to make a perspective warp
 2) Many a times, lighting has a serious effect. So make sure you try to detect documents in good lighting conditions and in a contrasting background
-3) Sometimes, there is fluttering of the image detected, so you can break the while loop in Step 4 as soon as you detect a document
+3) Sometimes, there is fluttering of the image detected and it is not very stable, so you can break the while loop in Step 4 as soon as you detect a document
