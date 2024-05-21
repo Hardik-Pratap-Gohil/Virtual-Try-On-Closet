@@ -27,7 +27,8 @@ Use a while loop to continuously read from the webcam, process the image, and di
 
 ## Submission
 
-Submit your completed Python script along with screenshot of a document(or any rectangular object it detected) via the google form. Ensure your script includes comments explaining your code.
+Submit your completed Python script along with screenshot of a document(or any rectangular object it detected) via the google form. Ensure your script includes comments explaining your code.  
+You are free to use any other method you see fit but make sure you explain it thoroughly
 
 ## Challenges
 
