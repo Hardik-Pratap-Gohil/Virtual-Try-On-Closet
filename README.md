@@ -14,16 +14,16 @@ Create a virtual try-on system that allows users to upload their images and see 
 ## Instructions for mentees
 
 ## Schedule
-Week  | Reading                                                                                                                 | Assignment
+Week  | Topic                                                                                                                   | Assignment
 ------|-------------------------------------------------------------------------------------------------------------------------|-----------
-Week 1|                                                                                                                         | 
-Week 2|                                                                                                                         | 
-Week 3|                                                                                                                         |
-Week 4|                                                                                                                         |
-Week 5|                                                                                                                         |
-Week 6|                                                                                                                         |                          
-Week 7|                                                                                                                         |
-Week 8|                                                                                                                         |
+Week 1| Pytorch and Neural networks                                                                                             | 
+Week 2| OpenCV                                                                                                                  | 
+Week 3| Computer Vision and GANs                                                                                                |
+Week 4| Pose Estimation                                                                                                         |
+Week 5| Model Architecture                                                                                                      |
+Week 6| Model Training and Testing                                                                                              |                          
+Week 7| Model Deployment                                                                                                        |
+Week 8| Modifications                                                                                                           |
 
 ## Technologies Used
 
