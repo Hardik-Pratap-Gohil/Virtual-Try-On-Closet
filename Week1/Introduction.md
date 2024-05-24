@@ -14,8 +14,8 @@ Given a clothing image and a person image, an image-based virtual try-on aims to
 
 Virtual try-on is similar to image synthesis, but it has unique and challenging aspects. Given images of a person
  and a clothing product, the synthetic image should meet the following criteria:
- (1) The person’s pose, body shape, and identity should be preserved. 
+ (1) The person’s pose, body shape, and identity should be preserved.   
  (2) The clothing product should be naturally deformed to the desired clothing region of the given person, by reflecting his/her pose and body
- shape.
- (3) Details of the clothing product should be kept intact. 
- (4) The body parts initially occluded by the person’s clothes in the original image should be properly rendered.
+ shape.  
+ (3) Details of the clothing product should be kept intact.   
+ (4) The body parts initially occluded by the person’s clothes in the original image should be properly rendered.  
