@@ -26,5 +26,19 @@ Week 7| Model Deployment                                                        
 Week 8| Modifications                                                                                                           |
 
 ## Technologies Used
-
-## Resources
+  - Python
+  - Pytorch
+  - Neural Networks
+  - OpenCV
+  - Computer Vision
+     - Edge Detection
+     - Convolution Neural Nets
+     - RESNET
+     - Object Localisation
+     - Object detection
+     - Face recognition and face verification
+     - Neural Style Transfer
+  - Generative Adversarial Network
+  - Semantic Segmentation
+  - Pose Estimation
+    
