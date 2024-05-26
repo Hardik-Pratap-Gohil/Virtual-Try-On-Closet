@@ -1,2 +1,5 @@
 # Introduction to GAN
 After having your concepts of Neural Networks and OpenCV clear, now it's the time to explore the realm of **Generative Adversarial Network (GAN)**. First published in 2014 by Ian Goodfellow and his colleagues, GAN has revolutionized the domain the image generation and sequence predection. The [introductory paper on GAN](https://arxiv.org/pdf/1406.2661) unravels the math behind the fundamental GAN architecture and gives great insights on how actually GAN manages to generate images so magically.   
+
+# Hands-on GAN assignment
+Now we will build a GAN model using Convolutional Neural Networks in Pytorch. In the assignment, we have followed the architecture mentioned in the [DCGAN paper](https://arxiv.org/pdf/1511.06434) ( Deep Convolutional Generative Adversarial Netowork). Go through the paper and for clarity and attempt the assignment without any aid (Hints provided for each block of code). This will help in understanding the paper and its architecture better.
