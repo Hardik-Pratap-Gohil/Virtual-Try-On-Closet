@@ -14,8 +14,8 @@ Create a virtual try-on system that allows users to upload their images and see 
 ## Instructions for mentees
 
 ## Schedule
-Week  | Topic                                                                                                                   | Assignment
-------|-------------------------------------------------------------------------------------------------------------------------|-----------
+Week  | Topic                                                                                                                   | 
+------|-------------------------------------------------------------------------------------------------------------------------|
 Week 1| Pytorch and Neural networks                                                                                             | 
 Week 2| OpenCV                                                                                                                  | 
 Week 3| Computer Vision and GANs                                                                                                |
