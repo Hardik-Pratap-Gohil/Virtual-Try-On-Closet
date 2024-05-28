@@ -17,6 +17,12 @@ Note: We will be using Raw python to do so
 By now, you must have had a good understanding of how neural networks operate, now it's time for you to get familiar with the Pytorch library in Python, which we will be using for most our coding purposes  
 [Official Pytorch beginner series](https://www.youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)
 
+## Computer Vision
+Next up, we will be following this amazing series by Andrew NG, which will cover all the basic concepts of Computer Vision and a lot of applications which will be helpful for us in our future weeks  
+
+[Convolutional Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+
+This is a lot of work for this week. We hope you'll enjoy and have a good time learning all this
 
 
 
