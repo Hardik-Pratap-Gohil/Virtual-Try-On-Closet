@@ -1,3 +1,3 @@
 # Semantic Segmentation Codes
 
-Check the images shown to understand how each model is working
+Check the images in this folder to understand how each model is working
