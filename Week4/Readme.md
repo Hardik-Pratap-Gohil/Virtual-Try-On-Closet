@@ -9,7 +9,6 @@ We will be following the UNet architecture which is famous for semantic segmenta
 
 After this also read this interesting paper by Google named [DeepLab](https://arxiv.org/pdf/1606.00915) which is very famous. You can ignore the maths used in CRFs  
  Next up, open the Code folder, you will see UNet.ipynb which is an implementation of Unet architecture on the Cityscapes dataset. Try and get an understanding of how this is working.   
-Note: Any machine learning model's code has a few standard steps
 
 ## Hands on Implementation
 
