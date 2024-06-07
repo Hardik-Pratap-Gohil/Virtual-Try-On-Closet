@@ -2,12 +2,12 @@
 
 ## Learning resources
 In thsi week, we will begin by starting to learn about Semantic segmentation 
-(https://www.youtube.com/watch?v=nDPWywWRIRo&list=RDQMw0DagWEDkno&start_radio=1)[This] lecture will explain the basic concepts around semantic segmentation and topics that follow afterwards  
+[This](https://www.youtube.com/watch?v=nDPWywWRIRo&list=RDQMw0DagWEDkno&start_radio=1) lecture will explain the basic concepts around semantic segmentation and topics that follow afterwards  
 
-We will be following the UNet architecture which is famous for semantic segmentation. This is the paper : (https://arxiv.org/pdf/1505.04597)[U-Net: Convolutional Networks for Biomedical
- Image Segmentation]   
+We will be following the UNet architecture which is famous for semantic segmentation. This is the paper :[U-Net: Convolutional Networks for Biomedical
+ Image Segmentation](https://arxiv.org/pdf/1505.04597)
 
-After this also read this interesting paper by Google named (https://arxiv.org/pdf/1606.00915)[DeepLab] which is very famous. You can ignore the maths used in CRFs  
+After this also read this interesting paper by Google named [DeepLab](https://arxiv.org/pdf/1606.00915) which is very famous. You can ignore the maths used in CRFs  
  Next up, open the Code folder, you will see UNet.ipynb which is an implementation of Unet architecture on the Cityscapes dataset. Try and get an understanding of how this is working.   
 Note: Any machine learning model's code has a few standard steps
 
