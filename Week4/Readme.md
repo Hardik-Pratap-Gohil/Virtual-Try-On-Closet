@@ -13,8 +13,8 @@ After this also read this interesting paper by Google named [DeepLab](https://ar
 ## Hands on Implementation
 
 ### Part 1
-Navigate to the Code folder and open Deeplab.ipynb. This notebook has an implementation of a pretrained Deeplab network and this mostly focuses on ways of visualising the output of segmentation models. Two methods, namely Segmentation map and Overlayed Segmentation have been used.  
-From this, we take the inference that Deeplab which is trained on Coco dataset is not good enough to work on Cityscapes dataset as these two are fundamentally different from each other. However, it manages to detect basic objects like cars and humans very effectively
+  Navigate to the Code folder and open Deeplab.ipynb. This notebook has an implementation of a pretrained Deeplab network and this mostly focuses on ways of visualising the output of segmentation models. Two methods, namely Segmentation map and Overlayed Segmentation have been used.  
+  From this, we take the inference that Deeplab which is trained on Coco dataset is not good enough to work on Cityscapes dataset as these two are fundamentally different from each other. However, it manages to detect basic objects like cars and humans very effectively
 
 ### Part 2
 Next, navigate to the Code folder and open UNet.ipynb. This notebook contains an implementation of the modified U-Net architecture applied to the Cityscapes dataset. Follow these steps:  
