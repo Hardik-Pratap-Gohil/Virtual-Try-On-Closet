@@ -1,4 +1,4 @@
-# Imagge Clasification using LeNet CNN
+# Image Clasification using LeNet CNN
 
 This notebook demonstrates how to build and train a Convolutional Neural Network (CNN) based on the LeNet architecture for image classification tasks.  
 
