@@ -12,7 +12,7 @@ After this also read this interesting paper by Google named [DeepLab](https://ar
 
 ## Hands on Implementation
 
-Hands on implementation code for classification of MNIST dataset using [LENET(https://arxiv.org/pdf/1609.04112) and semantic segmentation using Unet and deeplab has been provided. Go through the code line by line and understand it
+Hands on implementation code for classification of MNIST dataset using [LENET](https://arxiv.org/pdf/1609.04112) and semantic segmentation using Unet and deeplab has been provided. Go through the code line by line and understand it
 ### Part 1
 &nbsp;&nbsp;&nbsp; Navigate to the Code folder and open Deeplab.ipynb. This notebook has an implementation of a pretrained Deeplab network and this mostly focuses on ways of visualising the output of segmentation models. Two methods, namely Segmentation map and Overlayed Segmentation have been used.  
 &nbsp;&nbsp;&nbsp; From this, we take the inference that Deeplab which is trained on Coco dataset is not good enough to work on Cityscapes dataset as these two are fundamentally different from each other. However, it manages to detect basic objects like cars and humans very effectively
