@@ -30,4 +30,5 @@ Another paper, a successor of the present one was relased in which they had obse
 
 And finally the most awaited section dropping...
 ### An interactive assignment on Pose Estimation
-Although it would need hell lot of resources and time to build and train an OpenPose like model on our own, the OpenPose library comes to our rescue! This simplifies our task to a large extent and we'll be posting the assignment based on it, soon...
+Although it would need hell lot of resources and time to build and train an OpenPose like model on our own, the OpenPose library comes to our rescue! This simplifies our task to a large extent  
+As part of this assignment, you'll will need to download OpenPose from the [github repository](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git) and referring to the documentation, generate pose skeleton for 5 of your favourite memes, and play with various functions of OpenPose and explore their functioning. As a bonus, make pose skeleton for a video meme
