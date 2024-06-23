@@ -11,7 +11,7 @@ After having your concepts of Neural Networks and OpenCV clear, now it's the tim
 #### Assignment Instructions
 1) Now we will build a GAN model using Convolutional Neural Networks in Pytorch. In the assignment we have uploaded, we have followed the architecture mentioned in the [DCGAN paper](https://arxiv.org/pdf/1511.06434) (Deep Convolutional Generative Adversarial Network). Go through the paper and for clarity and attempt the assignment without any aid based on your understanding of GAN and CNN (Hints provided for few block of code to get started :)). This will help in understanding the paper and GAN architecture better.
 2) Make a copy of this assignment in your drive and attempt the objectives mentioned in the assignment in your copy of the assignment. In the submission form, upload the colab link of your assignment.
-##### All the best!
+#### All the best!
 
 
 ## Pose Estimation
