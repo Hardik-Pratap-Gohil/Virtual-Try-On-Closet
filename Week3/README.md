@@ -7,7 +7,12 @@ After having your concepts of Neural Networks and OpenCV clear, now it's the tim
 2) [Math behind GAN by Normalised Nerd](https://youtu.be/Gib_kiXgnvA?si=UZ8x0dZgRmzW95BQ)
 
 ### Hands-on GAN assignment
-Now we will build a GAN model using Convolutional Neural Networks in Pytorch. In the assignment we will be uploading later on, we have followed the architecture mentioned in the [DCGAN paper](https://arxiv.org/pdf/1511.06434) (Deep Convolutional Generative Adversarial Network). Go through the paper and for clarity and attempt the assignment without any aid based on your understanding of GAN and CNN (Hints provided for each block of code :)). This will help in understanding the paper and GAN architecture better.
+[Assignment link](https://colab.research.google.com/drive/11NjOgXZXK1dT_D1lt-5eyJ0Hnv-i0sgl?usp=sharing)
+#### Assignment Instructions
+1) Now we will build a GAN model using Convolutional Neural Networks in Pytorch. In the assignment we have uploaded, we have followed the architecture mentioned in the [DCGAN paper](https://arxiv.org/pdf/1511.06434) (Deep Convolutional Generative Adversarial Network). Go through the paper and for clarity and attempt the assignment without any aid based on your understanding of GAN and CNN (Hints provided for few block of code to get started :)). This will help in understanding the paper and GAN architecture better.
+2) Make a copy of this assignment in your drive and attempt the objectives mentioned in the assignment in your copy of the assignment. In the submission form, upload the colab link of your assignment.
+##### All the best!
+
 
 ## Pose Estimation
 Pose estimation is an ever-evolving domain of computer vision and has been under research for quite some time. The present pose estimation models' high accuracy stand as a testimony to the recent developments. It fundamentally revolves around the task of identifying a person and his pose using the relative postions of his body parts and visualise it. The initial version of the [OpenPose](https://arxiv.org/pdf/1611.08050) paper contains architecture and mechanism of the initial pose detection algorithm. [This video](https://www.youtube.com/watch?v=OgQLDEAjAZ8) marks the introduction of this paper in a conference where they have given brief overview of the procedure. If you feel over-whelmed by the amount of content in the paper, I would suggest you to go through this video and read the short explanation coming ahead...
